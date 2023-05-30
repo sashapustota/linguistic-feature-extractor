@@ -119,8 +119,8 @@ This repository has the following structure:
         main.py
 
 ```
-<!-- REPRODUCIBILITY -->
-## Reproducibility
+<!-- RESULTS -->
+## Results
 The following results were obtained for folder ```c1```:
 
 ```
